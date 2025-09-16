@@ -1,0 +1,4 @@
+id,titulo,anio,director,duracion_minutos,genero,idioma_original,actores_principales,guionistas,musica,productora,rating_imdb,presupuesto_usd,recaudacion_usd
+1,La Comunidad del Anillo,2001,Peter Jackson,228,Aventura;Fantasía,Inglés,Elijah Wood;Ian McKellen;Viggo Mortensen,Fran Walsh;Philippa Boyens;Peter Jackson,Howard Shore,New Line Cinema,8.8,93000000,887000000
+2,Las Dos Torres,2002,Peter Jackson,235,Aventura;Fantasía,Inglés,Elijah Wood;Ian McKellen;Viggo Mortensen,Fran Walsh;Philippa Boyens;Peter Jackson,Howard Shore,New Line Cinema,8.7,94000000,926000000
+3,El Retorno del Rey,2003,Peter Jackson,201,Aventura;Fantasía,Inglés,Elijah Wood;Ian McKellen;Viggo Mortensen,Fran Walsh;Philippa Boyens;Peter Jackson,Howard Shore,New Line Cinema,8.9,94000000,1120000000
