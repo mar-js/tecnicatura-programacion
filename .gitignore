@@ -1,0 +1,81 @@
+# Build output directories
+**/[Bb]in/
+**/[Oo]bj/
+**/[Oo]ut/
+
+# Visual Studio workspace settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# Rider IDE settings
+.idea/
+*.sln.iml
+
+# NuGet packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/
+
+# NuGet v3's project.json files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# MSBuild files
+*.builds
+*.log
+*.tlog/
+*.lastbuildstate
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Visual Studio cache files
+*.cache
+*.dbmdl
+
+# Visual Studio test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Coverage outputs
+coverage/
+coverage*.xml
+
+# DotCover
+*.dotCover
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# JustCode
+.JustCode
+
+# Visual Studio Code history
+.history/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+**/.keep
